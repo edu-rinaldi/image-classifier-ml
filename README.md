@@ -13,8 +13,11 @@ Create a model for classifying images in 8 classes:
 
 
 # Models
-For this homework I used two CNN inspired by LeNet and AlexNet version. 
-From testing I can say that LeNet performs better.
+For this homework I used two CNN inspired by:
+* LeNet 
+* AlexNet 
+
+LeNet performs better (check `Report.pdf` for more details)
 
 # How to use it (Now it's configured for using CUDA)
 
